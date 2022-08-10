@@ -26,4 +26,4 @@
 
 - python
 - pandas
-- pymystem3
+- Jupyter
