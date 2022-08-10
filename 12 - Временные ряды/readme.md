@@ -1,4 +1,4 @@
-# 1. Базовый Python
+# 12. Временные ряды
 
 ### Цели проекта
 
@@ -26,6 +26,11 @@
 
 ### Используемый стек инструментов
 
-- python
 - pandas
-- Jupyter
+- numpy
+- sklearn
+- statsmodels
+- matplotlib
+- seaborn
+- catboost
+- lightgbm
